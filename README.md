@@ -62,28 +62,6 @@ The project includes:
 
 ---
 
-## Repository Structure
-
-```text
-├── scriptbook/
-│   └── anonymization_experiment.pysb
-├── data/
-│   └── dataset.csv
-├── results/
-│   └── evaluation_results.csv
-└── README.md
-```
-
----
-
-## Author
-
-Karolina Dobrzańska  
-Postgraduate Studies: CyberAI – Integrated Security and Artificial Intelligence  
-WSB Merito University in Toruń
-
----
-
 ## Academic Purpose
 
 This repository was created as part of a postgraduate diploma project focused on privacy-preserving machine learning and data security.
